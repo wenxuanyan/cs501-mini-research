@@ -1,2 +1,5 @@
 # cs501-mini-research
-# This is Team Blue mini research deliverables
+<h>This is Team Blue mini research deliverables
+  <p> We used three APIs: Yelp, twitter and Sendbird.
+    
+    
