@@ -23,5 +23,17 @@ Users are able to chat with others after they match and the app will suggest res
 <b>SendBird</b>
 <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="Sendbird.png" ><br>
-       <p> You create account first, then you can create a channel with other users or joined channel to chat with others. This APIs/SDK enable the chat function in app.
+<p>SendBird_demo</p>
+This app is a demo for sendbird chat. Registered user could send messages to other registered users 
+and create new chat channels with other registered users. 
+
+<p></p>
+You can login with the following user credentials:
+
+ID: Max  NickName: Max
+ID: David  NickName: David
+ID: Lianghao  NickName: Lianghao
+ID: Wanzhi  NickName: Wanzhi
+ID: Daniel  NickName: Daniel
+ID: Haowei  NickName: Haowei
     
