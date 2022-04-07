@@ -3,7 +3,7 @@
   <p> We used three APIs: Yelp, twitter and Sendbird.#    
 <b>Yelp<b>
     <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50px;" 
-       src="Yelp.jpg" ><br>
+       src="Yelp.png" ><br>
 <b>Twitter</b>
 <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50px;" 
        src="twitter.jpg" ><br>
