@@ -7,6 +7,7 @@
     <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="Yelp.png" ><br>
 <b>Twitter</b>
+      <p> you enter first 
 <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="twitter.png" ><br>
 <b>SendBird</b>
