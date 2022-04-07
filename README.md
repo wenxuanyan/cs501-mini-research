@@ -2,7 +2,7 @@
 <h>This is Team Blue mini research deliverables
   <p> We used three APIs: Yelp, twitter and Sendbird.
        
-    <b>Yelp</b>
+    <b>Yelp<b>
     <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="Yelp.png" ><br>
 <b>Twitter</b>
