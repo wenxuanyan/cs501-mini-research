@@ -7,7 +7,7 @@
     <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="Yelp.png" ><br>
 <b>Twitter</b>
-      <p> you enter first 
+      <p> you enter first user name and it will search the accounts he/she/they follow. Same to second user. And you enter both, it will find the mutual account they follow 
 <img   style = "height:600px; width: 400px;border: solid 2px; border-radius: 50px;" 
        src="twitter.png" ><br>
 <b>SendBird</b>
